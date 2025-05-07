@@ -1,0 +1,5 @@
+# Ignore virtual environment 
+envi/
+
+# Ignore the Tests folder and its contents
+Tests/
